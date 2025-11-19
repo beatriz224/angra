@@ -5,6 +5,9 @@
 }
 
 
+h2{
+  padding: 5px;
+}
 header {
  background-color: rgb(80, 6, 6);
     display: flex;
@@ -55,10 +58,4 @@ display: block;
 }
 .menu:hover .dropbtn {
   background-color: #3e8e41;
-}
-footer{
-  width: 100%;
-  height: 100px;
-  background-color: rgb(55, 11, 11);
-  color: aliceblue;
 }
